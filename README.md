@@ -14,11 +14,11 @@
 
 ## **🚀 Projects & Achievements**
 
-- **[Pitagoras:](https://github.com/Gonark/Teorema_de_pitagoras)**  
+- **[Pitagoras:](https://github.com/Gonark/Teorema_de_pitagoras)** - Teorema de pitagoras automatizado
 
 ## **🏆 Achievements**
 
-- Rooted machines on TryHackMe
+- Rooted machines on TryHackMe, Hacker101
 
  [+] uid=0(root) gid=0(root) groups=0(root)
 
