@@ -1,6 +1,6 @@
 <img src="https://github.com/Gonark/DarkGonark/blob/main/z6ia6LxLhDKM62yiQwvEm3-1200-80.jpg" align="left" width="200" height="100" >
 
-# DarkSec \0/
+# DarkGonark \0/
 
 ##                                 **Who Am I?**
 
