@@ -4,7 +4,7 @@
 
 ##                                 **Who Am I?**
 
-👤 **DarkSec: Dev, Hacker, Ctf Player.**
+👤 **DarkGonark: Dev, Hacker, Ctf Player.**
 
 ## **💻 Skills**
 
