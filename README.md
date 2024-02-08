@@ -15,6 +15,7 @@
 ## **🚀 Projects & Achievements**
 
 - **[Pitagoras:](https://github.com/Gonark/Teorema_de_pitagoras)** - Teorema de pitagoras automatizado
+- **[Enumerador_onion:](https://github.com/Gonark/Enum_FEC)** - Enumerador de diretorios da rede TOR
 
 ## **🏆 Achievements**
 
