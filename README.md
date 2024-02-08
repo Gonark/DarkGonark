@@ -8,7 +8,7 @@
 
 ## **💻 Skills**
 
-- **Languages:** Bash, Python
+- **Languages:** Python, C
 - **Operating Systems:** Linux
 - **Other:** application web
 
